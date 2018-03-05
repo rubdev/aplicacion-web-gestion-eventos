@@ -1,0 +1,53 @@
+body {
+	background-color: #85929e;
+}
+
+form {
+  width: 20%;
+  margin: 0 auto;
+  text-align: left; 
+}
+
+#marcado {
+	background-color: #EA0E00;
+	font-weight:bold;
+}
+
+.correcto {
+	color: #00EA75;
+	background-color: #AEB6bf;
+}
+
+.error {
+	color: #EA0E00;
+	background-color: #AEB6bf;
+}
+
+.alinea-centro {
+
+	margin: 0 auto;
+	padding-top: 10%;
+	text-align: center;
+}
+
+.header-admin {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.acciones-admin {
+	margin-top: 5%;
+}
+
+.accion-admin {
+	width: 30%;
+	height: 100%;
+	display: inline-block;
+}
+
+.calendario td{
+	padding: 1%;
+	width: 7%;
+	height: 50%;
+}
+
